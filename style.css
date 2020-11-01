@@ -72,3 +72,10 @@ body{
 .arrow:active{
     background-color: #7f8c8d
 }
+
+.sub-header{
+    font-family: Helvetica;
+    color: turquoise;
+    font-size: 20px;
+   
+}
